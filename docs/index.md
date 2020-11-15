@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## data structure algorithm
 
-You can use the [editor on GitHub](https://github.com/codeandcode0x/ds-algorithm/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+1. 链表 LinkList
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. 堆栈 Stack
 
-### Markdown
+3. 哈希 Hash
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. 二叉树 Binary Tree
 
-```markdown
-Syntax highlighted code block
+5. 排序 Sort
+	1. 插入排序
+	2. 选择排序
+	3. 希尔排序
+	4. 快速排序
+	5. 归并排序
+	6. 堆排序
 
-# Header 1
-## Header 2
-### Header 3
+6. 查找 Search 
+	1. 二叉查找树
+	2. 平衡查找树
+	3. 散列表
 
-- Bulleted
-- List
+7. 图 Map
+    1. 深度优先搜索
+	2. 广度优先搜索
+	3. 连通性问题
+	3. Kruskal
+	4. Prim的最小生成树
+	5. Dijkstra
+	6. Bellman-Ford 最短路径算法
 
-1. Numbered
-2. List
+8. 字符串 String
+	1. 字符串键的排序
+	2. 字符串查找的快速算法
+	3. 子字符串查找
+	4. 正则表达式模式匹配
+	5. 数据压缩算法
 
-**Bold** and _Italic_ and `Code` text
+9. 综合领域
+	1. 科学计算
+	2. 运筹学
+	3. 计算理论
+	4. 事件模拟
+	5. B树
+	6. 后缀数组
+	7. 最大流量问题
+	8. 搜索问题
+	9. 问题转化
+	10. NP完全性
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+continue ...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codeandcode0x/ds-algorithm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
+codeandcodec@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
